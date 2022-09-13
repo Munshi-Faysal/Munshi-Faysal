@@ -100,7 +100,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
     <p align="center" >  
   <a href="https://github.com/Munshi-Faysal"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=jewel-talukder&&show_icons=true&theme=radical&count_private=true"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Munshi-Faysal&&show_icons=true&theme=radical&count_private=true"/>
   </a>
   </p>
     
