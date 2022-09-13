@@ -28,7 +28,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> <a href='#' target=_blank>Md Jewel Talukder</a></li>
+ <b>Name:</b> <a href='#' target=_blank>Munshi Faysal Ahmedr</a></li>
 
 <li>
 <b>Loves:</b> anime, osu, rhythm games
@@ -40,7 +40,7 @@
 <b>Hobbys:</b> Tech Stuff, Web Development, Explore New
 </li>
 <li>
-<b>Working @:</b> Software Engineer
+<b>Working @:</b> Software Engineer at Pioneer Denim Limited - sister Concern of Badsha Group Of Industries
 </li>
 <br><br><br>
 </div>
@@ -70,7 +70,7 @@
    <img alt="npm" src="https://img.shields.io/badge/-DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" />
    <img alt="npm" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
  <br><br>
-I am also very good at WordPress Customization. And I am good at writing Guides also. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+I am also very good at ASP.NET Core with javascript/jQuery/Angular. And I am good at writing Guides also. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -81,7 +81,7 @@ I am also very good at WordPress Customization. And I am good at writing Guides 
 <p align="center">Here some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 
-<p align="center"> <a href="https://facebook.com/rjs.jewel.talukder" target="_blank"><img src="https://img.shields.io/badge/Jewel Talukder-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/snpsujon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Jewel Talukder-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"> <a href="https://www.facebook.com/munshifaysal.ahmed.9/" target="_blank"><img src="https://img.shields.io/badge/Jewel Talukder-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/snpsujon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Jewel Talukder-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <br>
 <div>
@@ -92,7 +92,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div>
     <p align="center" >  
-  <a href="https://github.com/snpsujon"> 
+  <a href="https://github.com/Munshi-Faysal"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=jewel-talukder&&show_icons=true&theme=radical&count_private=true"/>
   </a>
   </p>
