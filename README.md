@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 <br>
     <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Munshi-Faysal&color=green"/>
@@ -12,7 +12,7 @@
   
 </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <li>
  <b>Name:</b> <a href='#' target=_blank>Munshi Faysal Ahmedr</a></li>
 
@@ -20,13 +20,13 @@
 <b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
-<b>Gender:</b> He/his/Male 🏳️‍⚧️
+<b>Gender:</b>Male 🏳️‍⚧️
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Web Development, Explore New
+<b>Hobbys:</b> Tech Stuff, Software Development, Explore New
 </li>
 <li>
-<b>Working @:</b> Software Engineer at Pioneer Denim Limited - sister Concern of Badsha Group Of Industries
+<b>Working @:</b> Software Engineer at BRAC Saajan Money Transfer - a Subsidory of BRAC Bank
 </li>
 <br><br><br>
 </div>
