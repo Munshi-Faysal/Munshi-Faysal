@@ -26,7 +26,7 @@
 <b>Hobbys:</b> Tech Stuff, Software Development, Explore New
 </li>
 <li>
-<b>Working @:</b> Software Engineer at BRAC Saajan Money Transfer - a Subsidory of BRAC Bank
+<b>Working @:</b> Dream71 Bangladesh Ltd
 </li>
 <br><br><br>
 </div>
