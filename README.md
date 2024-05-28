@@ -14,7 +14,7 @@
 <div>
 <h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <li>
- <b>Name:</b> <a href='#' target=_blank>Munshi Faysal Ahmedr</a></li>
+ <b>Name:</b> <a href='#' target=_blank>Munshi Faysal Ahmed</a></li>
 
 <li>
 <b>Loves:</b> anime, osu, rhythm games
