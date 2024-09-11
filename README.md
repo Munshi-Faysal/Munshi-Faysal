@@ -17,7 +17,7 @@
  <b>Name:</b> <a href='#' target=_blank>Munshi Faysal Ahmed</a></li>
 
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> My daughter❤💕💖
 </li>
 <li>
 <b>Gender:</b>Male 🏳️‍⚧️
@@ -34,9 +34,6 @@
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
 <p>
-  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munshi-Faysal&layout=Demo&count_private=true" align="right">
-  </div>
 </div>
 <div>
   <br>
